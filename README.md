@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajrahul-portfolio.vercel.app](https://rajrahul-portfolio.vercel.app)
 
-- 💬 Ask me about **React Js, Node Js, MongoDB, Express Js, FireBase,**
+- 💬 Ask me about **React Js, Node Js, MongoDB, Express Js, FireBase , Android Development **
 
 - 📫 How to reach me **rajrahul00945@gmail.com**
 
