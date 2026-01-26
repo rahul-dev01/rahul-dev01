@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A Full Stack Developer (MERN) | Mobile App Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-dev01" alt="rahul-dev01" /></a> </p>
-
 - 🔭 I’m currently working on **RAG (Retrieval-Augmented Generation)**
 
 - 🌱 I’m currently learning **the fundamentals of cross-platform mobile application development**
